@@ -1,29 +1,13 @@
-# file-upload
+# 前端大文件上传 + 断点续传解决方案 fork 自 https://github.com/yeyan1996/file-upload
 
-## Project setup
-```
-yarn install
-```
+原文链接地址 [实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed#heading-17)
 
-### Compiles and hot-reloads for development
+# start
+
 ```
-yarn run serve
+npm install
 ```
 
-### Compiles and minifies for production
 ```
-yarn run build
+npm run start
 ```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
